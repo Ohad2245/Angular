@@ -1,6 +1,5 @@
-# Angular-morning-B-2022
+# Angular
 
-https://ariel-ac-il.zoom.us/j/88448239166?pwd=U3VERUFXK1UrYTNoZllNQVVTTGZCZz09
 ## Lesson 01
 
 - What is Angular
